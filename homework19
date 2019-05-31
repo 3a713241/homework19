@@ -47,3 +47,4 @@ int main()
                printf("判斷結果：Point %d is not contained in any figure\n",m);  
       } 
        return 0;
+       }
